@@ -1,10 +1,356 @@
 {
-    "namePlates": [
-    ],
-    "hats": [
-    ],
-    "visors": [
-    ],
-    "packages": [
-    ]
+	"BundleName" : null,
+	"Hats" : [
+		{
+			"Main" : {
+				"Hash" : "bed41a159f72ee1973d70f69f0d853d3",
+				"Address" : "sO94Knw_Main.png",
+				"ExIsFront" : False
+			},
+			"Flip" : {
+				"Hash" : "66c6ae97db3a118646bdc3fa5b67a7c6",
+				"Address" : "sO94Knw_Flip.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "f38c3e4515f8ee29529c5b27f56c7cb2",
+				"Address" : "sO94Knw_Climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "きよきよ",
+			"Author" : "ひまじん",
+			"Package" : "きよちゃんグアス　ハット",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "738710e2e1336a1d028ab68adb03a280",
+				"Address" : "pw3zxE8_Main.png",
+				"ExIsFront" : False
+			},
+			"Flip" : {
+				"Hash" : "d85ff3de34c83c332c141b8e11bc3481",
+				"Address" : "pw3zxE8_Flip.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "c8c5097cdbdad3a9b78bf706ed074696",
+				"Address" : "pw3zxE8_Climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "HoLIC",
+			"Author" : "ひまじん",
+			"Package" : "きよちゃんグアス　ハット",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "983b2b3f539155d9cd5e7ca47cbd19cf",
+				"Address" : "7kGXRrw_Main.png",
+				"ExIsFront" : False
+			},
+			"Flip" : {
+				"Hash" : "847fb68961e8c41e401627bdc12c4fcd",
+				"Address" : "7kGXRrw_Flip.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "937c4b2c3e40015b9ec0d5b1a23b60f4",
+				"Address" : "7kGXRrw_Climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "ひまじん",
+			"Author" : "ひまじん",
+			"Package" : "きよちゃんグアス　ハット",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "db48817d5c84f2b58c4d0a338f9ea828",
+				"Address" : "OqH71yzr_Main.png",
+				"ExIsFront" : False
+			},
+			"Flip" : {
+				"Hash" : "77097381de4e488f7e32ef185b082b0f",
+				"Address" : "OqH71yzr_Flip.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "fcc5652fc59883dd0478621ace160628",
+				"Address" : "OqH71yzr_Climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "わたしちゃ",
+			"Author" : "ひまじん",
+			"Package" : "きよちゃんグアス　ハット",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "6f6f935fff574cd0c277154b86f5d983",
+				"Address" : "pw3rrhlr_Main.png",
+				"ExIsFront" : False
+			},
+			"Flip" : {
+				"Hash" : "2bca623eb369ed768e8549273f15b2c5",
+				"Address" : "pw3rrhlr_Flip.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "250e0225e6bd41c299513cf717df4869",
+				"Address" : "pw3rrhlr_Climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "まいくてす",
+			"Author" : "ひまじん",
+			"Package" : "きよちゃんグアス　ハット",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "bae08431bfc8b7270dba77bfe4ab0476",
+				"Address" : "tIiP5mdNb_Main.png",
+				"ExIsFront" : False
+			},
+			"Flip" : {
+				"Hash" : "74c5bb28447ae9dc05ed34c43bee4978",
+				"Address" : "tIiP5mdNb_Flip.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "aad544a38feb2167cfc7d1efc3b2befa",
+				"Address" : "tIiP5mdNb_Climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "川原辺くまじ",
+			"Author" : "ひまじん",
+			"Package" : "きよちゃんグアス　ハット",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "fc58bb01657ae69961020204d9c39c69",
+				"Address" : "2rKaFD4q_Main.png",
+				"ExIsFront" : False
+			},
+			"Flip" : {
+				"Hash" : "e1fa8d16df77439952eb4b43450d23bc",
+				"Address" : "2rKaFD4q_Flip.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "d78fdc1666dcd2fde06559a3e6445f36",
+				"Address" : "2rKaFD4q_Climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "なみこんぶ",
+			"Author" : "ひまじん",
+			"Package" : "きよちゃんグアス　ハット",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "c0d88a313f79e1f69dd27b30171176f7",
+				"Address" : "DE4P6Wopc_Main.png",
+				"ExIsFront" : False
+			},
+			"Flip" : {
+				"Hash" : "350c65dbe8234ed9efb90746fe687a07",
+				"Address" : "DE4P6Wopc_Flip.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "f8f6b511285824c98d3d3575e52e5696",
+				"Address" : "DE4P6Wopc_Climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "山桜桃レアモ",
+			"Author" : "ひまじん",
+			"Package" : "きよちゃんグアス　ハット",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "c0711e8af2dbe56c868bff6e8daf7d2e",
+				"Address" : "LeAtcow_Main.png",
+				"ExIsFront" : False
+			},
+			"Flip" : {
+				"Hash" : "1dfe3f8e2fd2d7f9ae65cdce34ede47d",
+				"Address" : "LeAtcow_Flip.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "e848d57dbdadc41c92732f02245b0f0c",
+				"Address" : "LeAtcow_Climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "けぼちゃ",
+			"Author" : "ひまじん",
+			"Package" : "きよちゃんグアス　ハット",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "9b5f4a80907f105f559c43ee20b57838",
+				"Address" : "o1otCo4_Main.png",
+				"ExIsFront" : False
+			},
+			"Flip" : {
+				"Hash" : "8be433fb0921289e8472d466a5997939",
+				"Address" : "o1otCo4_Flip.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "49e3e6041f6fcf16d12dc59e80dae179",
+				"Address" : "o1otCo4_Climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "CHICO",
+			"Author" : "ひまじん",
+			"Package" : "きよちゃんグアス　ハット",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "12d2200581c10fbfa12e936ba8c06701",
+				"Address" : "dyiLPOz5b_Main.png",
+				"ExIsFront" : False
+			},
+			"Flip" : {
+				"Hash" : "dc3188e8dee8a67c522dd74376a6efae",
+				"Address" : "dyiLPOz5b_Flip.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "89063ec6028c9679d7cb078347326ec6",
+				"Address" : "dyiLPOz5b_Climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "クラウス・雷堂",
+			"Author" : "ひまじん",
+			"Package" : "きよちゃんグアス　ハット",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "b3b5f2fcd209e34ed6a7f57dd6b1b8ad",
+				"Address" : "u0L5PYLzb_Main.png",
+				"ExIsFront" : False
+			},
+			"Flip" : {
+				"Hash" : "6e10dd2c79881f4e4d91f95e12865eca",
+				"Address" : "u0L5PYLzb_Flip.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "4284e781bec36b165f2f344b57f6f9d4",
+				"Address" : "u0L5PYLzb_Climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "神楽木れいり",
+			"Author" : "ひまじん",
+			"Package" : "きよちゃんグアス　ハット",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		}
+	],
+	"Visors" : [
+	],
+	"Nameplates" : [
+	],
+	"Stamps" : [
+	],
+	"Packages" : [
+		{
+			"Package" : "きよちゃんグアス　ハット",
+			"Format" : "きよちゃんグアス　ハット",
+			"Priority" : 1,
+			"IsLocalizable" : True
+		}
+	],
+	"IsLocalizable" : True
 }
